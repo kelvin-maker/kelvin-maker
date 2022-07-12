@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation of boring tasks
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me mwendakelvin@gmail.com
+- 📫 How to reach me mwendakelvin88@gmail.com
 
 <!---
 kelvin-maker/kelvin-maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
